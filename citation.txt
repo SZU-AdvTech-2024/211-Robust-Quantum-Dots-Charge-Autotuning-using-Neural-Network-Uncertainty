@@ -1,0 +1,6 @@
+@article{REPO211,
+    author = "Yon, Victor and Galaup, Bastien and Rohrbacher, Claude and Rivard, Joffrey and Godfrin, Clément and Li, Ruoyu and Kubicek, Stefan and Greve, Kristiaan De and Gaudreau, Louis and Dupont-Ferrier, Eva",
+    journal = "IOP Publishing Ltd",
+    title = "{Robust quantum dots charge autotuning using neural network uncertainty}",
+    year = "2024"
+}
